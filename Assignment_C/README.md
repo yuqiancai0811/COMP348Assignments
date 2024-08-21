@@ -1,4 +1,4 @@
-# COMP 348 Assignment 1 - Search and Sort Application
+# COMP 348 Assignment 1 - Search and Sort Application (C)
 
 ## Description
 This project is part of the COMP 348 course, focusing on hands-on experience with the C programming language. The goal is to develop a simple search and sort application that reads words from a text file, sorts them based on user specifications, and displays the results.
